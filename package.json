@@ -1,0 +1,11 @@
+{
+  "name": "cyclejs.slides",
+  "version": "1.0.0",
+  "description": "My slides about cycle.js",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "remarker": "1.3.0"
+  }
+}

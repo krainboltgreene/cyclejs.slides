@@ -1,0 +1,7 @@
+port: 6275
+dest: build
+source: slides.md
+assets: ['assets']
+title: 'Cycle.js'
+css: ''
+remarkConfig: {}
